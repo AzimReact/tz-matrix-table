@@ -1,0 +1,39 @@
+h1 {
+  margin: 20px 0;
+  text-align: center;
+}
+.table {
+  border-collapse: collapse;
+  width: 70%;
+  margin: 0 auto;
+  font-family: Arial, sans-serif;
+}
+
+.table th,
+.table td {
+  padding: 5px;
+  text-align: center;
+  border: 1px solid #ddd;
+  min-width: 80px;
+}
+
+.table th {
+  background-color: #f2f2f2;
+  font-weight: bold;
+}
+
+input {
+  border: none;
+  width: 80px;
+  height: 25px;
+}
+
+.sum {
+  color: rgb(244, 3, 3);
+  font-weight: bold;
+  background-color: rgb(254, 237, 237) !important;
+}
+
+.total-sum {
+  background-color: rgb(161, 253, 176) !important;
+}
